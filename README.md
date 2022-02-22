@@ -43,3 +43,16 @@ Search locations on a built-in map and get direction.
 
 The application developed by Ardeshir Shojaei and had reached +3000 downloads in the first 6 months in 2017 in the [CafeBazaar app store](https://cafebazaar.ir/app/com.example.ardeshir.today/?l=en) , but since 2019 the application will no longer receive software updates.
 
+This application is coded using the following technologies:
+--------------------
+✔️ Java
+
+✔️ Android Studio
+
+✔️ Rest API
+
+✔️ UI / UX Design
+
+✔️ Android (.apk)
+
+✔️ JSON
