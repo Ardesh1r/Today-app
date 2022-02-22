@@ -1,8 +1,9 @@
 # Today-app
-TODAY is your ultimate guide for comfortable access to tools and services that you need every day. 
+"TODAY" is your ultimate guide for comfortable access to tools and services that you need every day. 
 --------------------------------------
 ![Logo](https://github.com/Ardesh1r/Today-app/blob/main/Logo.png?raw=true)
-TODAY can help you manage your to-do list and payments and offer several practical features.
+
+"TODAY" can help you manage your to-do list and payments and offer several practical features.
 The app consisted with the following features  :
 
 ✔️  Bank Services :
