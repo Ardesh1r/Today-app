@@ -4,8 +4,9 @@
 ![Logo](https://github.com/Ardesh1r/Today-app/blob/main/Logo.png?raw=true)
 
 "TODAY" can help you manage your to-do list and payments and offer several practical features.
-The app consisted with the following features  :
 
+Application features  :
+---------
 ✔️  Bank Services :
 Add your bank account card and check your transactions in just one place without carrying a physical wallet.
 
